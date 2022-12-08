@@ -1,0 +1,12 @@
+/* REMOVER AS FORMATAÇÕES PADRÃO DA PÁGINA */
+
+*{
+	margin: 0 px;
+	padding: 0px;
+}
+
+body{
+	font-size: 1em;
+	font: "Trebuchet MS", Helvetica, sans-serif;
+	background: #e6e6e6;
+}
